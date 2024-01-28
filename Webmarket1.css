@@ -1,0 +1,15 @@
+h1, h2, h3 {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+
+
+
+div.title {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 10px;
+}
