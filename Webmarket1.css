@@ -1,15 +1,35 @@
-h1, h2, h3 {
-    font-family: 'Times New Roman', Times, serif;
-    
+body {
+    background-color: #F2F2F2;
 }
 
 
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 
+    margin: 20px 35px 20px;
+    padding: 20px 35px 20px;
 
+    text-align: center;
 
-div.title {
-    border-style: solid;
+}
+
+div.header {
     border-color: black;
-    border-width: 3px;
-    border-radius: 10px;
+    border-width: 2px;
+}
+
+div.div1 {
+    border-color: black;
+    border-width: 2px;
+    border-radius: 3px;
+
+    margin: 5px 25px 5px 15px; 
+}
+
+
+footer {
+    text-align: center;
+
+
 }
